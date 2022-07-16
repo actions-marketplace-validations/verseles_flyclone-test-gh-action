@@ -1,0 +1,5 @@
+name: 'Flyclone Test GH Action'
+description: 'None'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
