@@ -1,5 +1,7 @@
 name: 'Flyclone Test GH Action'
-description: 'None'
+description: 'Docker image for test'
+icon: 'check-square'
+color: 'yellow'
 runs:
   using: 'docker'
   image: 'Dockerfile'
